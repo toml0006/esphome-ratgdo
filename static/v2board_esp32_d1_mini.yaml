@@ -42,6 +42,7 @@ api:
   id: api_server
 
 ota:
+	- platform: esphome
 
 improv_serial:
 
